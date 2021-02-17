@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669323092959",
+    "project_id": "maxab-de1b5",
+    "storage_bucket": "maxab-de1b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669323092959:android:5c0f4a2c9067a0fe96da6a",
+        "android_client_info": {
+          "package_name": "com.task.maxab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669323092959-j1pqabmrg7dv4i47jurp18kejci5mden.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9s2Z_icBk-C30k3HVTTWr_9h44fWotk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669323092959-j1pqabmrg7dv4i47jurp18kejci5mden.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
